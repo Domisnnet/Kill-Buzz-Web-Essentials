@@ -96,11 +96,17 @@ O sistema de vidas alterna as imagens dos corações entre `coracao_cheio.png` e
 
 ---
 
-<h2 id="codigo-fonte">6. 💻 Código Fonte</h2>
+<h2 id="codigo-fonte">6. 🚀 Instalação e Configuração Local</h2>
 
 Gostou da lógica do jogo? Sinta-se à vontade para explorar o código ou clonar o repositório:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FKill--Buzz-blue?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Kill-Buzz)
+```bash
+# Clonar o repositório
+git clone [https://github.com/Domisnnet/King-Domfy.git](https://github.com/Domisnnet/Kill-Buzz.git)
+
+# Acessar a pasta
+cd Kill-Buzz
+```
 
 ---
 
@@ -112,9 +118,16 @@ Siga os passos abaixo para fortalecer este projeto:
 | :---: | :--- | :--- |
 | **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Kill-Buzz/fork) |
 | **02** | **Branch** | `git checkout -b feature/MinhaMelhoria` |
-| **03** | **Commit** | `git commit -m 'feat: melhoria no sistema de sons'` |
+| **03** | **Commit** | `git commit -m 'feat: nova seção de álbuns'` |
 | **04** | **Push** | `git push origin feature/MinhaMelhoria` |
 | **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Kill-Buzz/compare) |
+
+### 🐛 Encontrou um problema?
+Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
+
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/Kill-Buzz?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Kill-Buzz/issues)
+[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/Kill-Buzz/issues/new)
+
 
 ---
 
@@ -143,12 +156,6 @@ Siga os passos abaixo para fortalecer este projeto:
 <details>
 <summary><strong>Como entro em contato com o desenvolvedor ❓</strong></summary>
 <p>Adoramos receber sugestões para novos níveis ou temas! Utilize os canais abaixo:</p>
-
-<strong>🐛 Reportar Bug ou Sugestão:</strong><br>
-<a href="https://github.com/Domisnnet/Kill-Buzz/issues">
-  <img src="https://img.shields.io/badge/Abrir-Issue-red?style=for-the-badge&logo=github" alt="Report Issue">
-</a>
-<br><br>
 <strong>👨‍💻 Networking e Contato:</strong><br>
 <a href="https://github.com/Domisnnet">
   <img src="https://img.shields.io/badge/Meu_Perfil_GitHub-212121?style=for-the-badge&logo=github" alt="Perfil">
@@ -183,4 +190,6 @@ Este projeto é *open source* e está licenciado sob a [![Licença MIT](https://
 
 <h2 id="perfil-do-github">12. 👨‍💻 Perfil do GitHub</h2>
 
-<a href="https://github.com/Domisnnet"> <img src="src/imagens/DomisDev.png" width="120" alt="Acessar perfil GitHub"> </a>
+<a href="https://github.com/Domisnnet"> 
+  <img src="src/imagens/DomisDev.png" width="120" alt="Acessar perfil GitHub"> 
+</a>
