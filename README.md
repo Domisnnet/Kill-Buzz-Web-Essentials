@@ -102,7 +102,7 @@ Gostou da lógica do jogo? Sinta-se à vontade para explorar o código ou clonar
 
 ```bash
 # Clonar o repositório
-git clone [https://github.com/Domisnnet/King-Domfy.git](https://github.com/Domisnnet/Kill-Buzz.git)
+git clone [https://github.com/Domisnnet/Kill-Buzz.git](https://github.com/Domisnnet/Kill-Buzz.git)
 
 # Acessar a pasta
 cd Kill-Buzz
@@ -184,12 +184,12 @@ Gostou do jogo? Explore o código ou faça sugestões:
 
 <h2 id="licenca">11. 📄 Licença</h2>
 
-Este projeto é *open source* e está licenciado sob a [![Licença MIT](https://img.shields.io/github/license/Domisnnet/GitHub-Stats)](https://github.com/Domisnnet/Kill-Buzz/edit/main/LICENSE)
+Este projeto é *open source* e está licenciado sob a [![Licença MIT](https://img.shields.io/github/license/Domisnnet/Kill-Buzz)](https://github.com/Domisnnet/Kill-Buzz/edit/main/LICENSE)
 
 ---
 
 <h2 id="perfil-do-github">12. 👨‍💻 Perfil do GitHub</h2>
 
 <a href="https://github.com/Domisnnet"> 
-  <img src="src/imagens/DomisDev.png" width="120" alt="Acessar perfil GitHub"> 
+  <img src="src/imagens/DomisDev.png" width="90" alt="Acessar perfil GitHub"> 
 </a>
