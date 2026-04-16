@@ -1,8 +1,12 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Domisnnet/Kill-Buzz-Web-Essentials?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Domisnnet/Kill-Buzz-Web-Essentials?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Domisnnet/Kill-Buzz-Web-Essentials?style=for-the-badge)
+
 <h2 id="sobre-o-projeto">1. 🦟 Mata Mosquito!</h2>
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20Bootstrap-blueviolet)
-[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Kill-Buzz/edit/main/LICENSE)
+[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Kill-Buzz-Web-Essentials/main/LICENSE)
 
 ![Kill-Buzz](src/imagens/tela.png)
 
@@ -49,7 +53,7 @@ Clique no botão abaixo para iniciar o desafio no seu navegador no modo normal c
 
 <div align="left">
   <a href="https://domisnnet.github.io/Kill-Buzz/app.html?normal" target="_blank">
-    <img alt="Botão Iniciar Jogo" src="https://raw.githubusercontent.com/Domisnnet/Kill-Buzz/main/src/imagens/bot%C3%A3o.webp" height="70" width="70" />
+    <img alt="Botão Iniciar Jogo" src="https://raw.githubusercontent.com/Domisnnet/Kill-Buzz-Web-        Essentials/main/src/imagens/bot%C3%A3o.webp" height="70" width="70" />
   </a>
 </div>
 
@@ -102,10 +106,10 @@ Gostou da lógica do jogo? Sinta-se à vontade para explorar o código ou clonar
 
 ```bash
 # Clonar o repositório
-git clone [https://github.com/Domisnnet/Kill-Buzz.git](https://github.com/Domisnnet/Kill-Buzz.git)
+git clone [https://github.com/Domisnnet/Kill-Buzz-Web-Essentials.git](https://github.com/Domisnnet/Kill-Buzz-Web-Essentials.git)
 
 # Acessar a pasta
-cd Kill-Buzz
+cd Kill-Buzz-Web-Essentials
 ```
 
 ---
@@ -116,17 +120,17 @@ Siga os passos abaixo para fortalecer este projeto:
 
 | Fase | Ação | Link / Comando |
 | :---: | :--- | :--- |
-| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Kill-Buzz/fork) |
+| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Kill-Buzz-Web-Essentials/fork) |
 | **02** | **Branch** | `git checkout -b feature/MinhaMelhoria` |
 | **03** | **Commit** | `git commit -m 'feat: nova seção de álbuns'` |
 | **04** | **Push** | `git push origin feature/MinhaMelhoria` |
-| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Kill-Buzz/compare) |
+| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Kill-Buzz-Web-Essentials/compare) |
 
 ### 🐛 Encontrou um problema?
 Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
-[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/Kill-Buzz?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Kill-Buzz/issues)
-[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/Kill-Buzz/issues/new)
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/Kill-Buzz?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Kill-Buzz-Web-Essentials/issues)
+[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/Kill-Buzz-Web-Essentials/issues/new)
 
 
 ---
@@ -168,7 +172,7 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 Gostou do jogo? Explore o código ou faça sugestões:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FKill--Buzz-blue?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Kill-Buzz)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FKill--Buzz--Web--Essentials-blue?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Kill-Buzz-Web-Essentials)
 
 ---
 
@@ -184,7 +188,7 @@ Gostou do jogo? Explore o código ou faça sugestões:
 
 <h2 id="licenca">11. 📄 Licença</h2>
 
-Este projeto é *open source* e está licenciado sob a [![Licença MIT](https://img.shields.io/github/license/Domisnnet/Kill-Buzz)](https://github.com/Domisnnet/Kill-Buzz/edit/main/LICENSE)
+Este projeto é *open source* e está licenciado sob a [![Licença MIT](https://img.shields.io/github/license/Domisnnet/Kill-Buzz)](https://github.com/Domisnnet/Kill-Buzz-Web-Essentials/main/LICENSE)
 
 ---
 
