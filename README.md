@@ -53,7 +53,7 @@ Clique no botão abaixo para iniciar o desafio no seu navegador no modo normal c
 
 <div align="left">
   <a href="https://domisnnet.github.io/Kill-Buzz-Web-Essentials/app.html?normal" target="_blank">
-    <img alt="Botão Iniciar Jogo" src="https://raw.githubusercontent.com/Domisnnet/Kill-Buzz-Web-        Essentials/main/src/imagens/bot%C3%A3o.webp" height="70" width="70" />
+    <img alt="Botão Iniciar Jogo" src="src/imagens/botão.webp" height="70" width="70" />
   </a>
 </div>
 
