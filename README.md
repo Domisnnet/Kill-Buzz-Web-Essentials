@@ -106,7 +106,7 @@ Gostou da lógica do jogo? Sinta-se à vontade para explorar o código ou clonar
 
 ```bash
 # Clonar o repositório
-git clone [https://github.com/Domisnnet/Kill-Buzz-Web-Essentials.git](https://github.com/Domisnnet/Kill-Buzz-Web-Essentials.git)
+git clone https://github.com/Domisnnet/Kill-Buzz-Web-Essentials.git(https://github.com/Domisnnet/Kill-Buzz-Web-Essentials.git)
 
 # Acessar a pasta
 cd Kill-Buzz-Web-Essentials
